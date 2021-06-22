@@ -1,0 +1,7 @@
+https://vue-loader-v14.vuejs.org/en/start/setup.html
+vue webpack:
+npm install -g vue-cli
+vue init webpack-simple my-proj
+cd my-proj
+npm install
+npm run dev -> ready to go
